@@ -9,7 +9,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-| 26.02.2024 | Einführung in die Robotik |
+| 26.02.2024 | [Einführung in die Robotik](240220/beispiel_zustandsdiagramm.md) |
 | 11.03.2024 | Rekursion |
 | 18.03.2024 | Projektarbeit |
 | 25.03.2024 | Projektarbeit |
